@@ -1,0 +1,14 @@
+/Users/abhiramkasu/AdventOfCode2025/Day1/bin/Debug/net10.0/Day1
+/Users/abhiramkasu/AdventOfCode2025/Day1/bin/Debug/net10.0/Day1.deps.json
+/Users/abhiramkasu/AdventOfCode2025/Day1/bin/Debug/net10.0/Day1.runtimeconfig.json
+/Users/abhiramkasu/AdventOfCode2025/Day1/bin/Debug/net10.0/Day1.dll
+/Users/abhiramkasu/AdventOfCode2025/Day1/bin/Debug/net10.0/Day1.pdb
+/Users/abhiramkasu/AdventOfCode2025/Day1/obj/Debug/net10.0/Day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhiramkasu/AdventOfCode2025/Day1/obj/Debug/net10.0/Day1.AssemblyInfoInputs.cache
+/Users/abhiramkasu/AdventOfCode2025/Day1/obj/Debug/net10.0/Day1.AssemblyInfo.cs
+/Users/abhiramkasu/AdventOfCode2025/Day1/obj/Debug/net10.0/Day1.csproj.CoreCompileInputs.cache
+/Users/abhiramkasu/AdventOfCode2025/Day1/obj/Debug/net10.0/Day1.dll
+/Users/abhiramkasu/AdventOfCode2025/Day1/obj/Debug/net10.0/refint/Day1.dll
+/Users/abhiramkasu/AdventOfCode2025/Day1/obj/Debug/net10.0/Day1.pdb
+/Users/abhiramkasu/AdventOfCode2025/Day1/obj/Debug/net10.0/Day1.genruntimeconfig.cache
+/Users/abhiramkasu/AdventOfCode2025/Day1/obj/Debug/net10.0/ref/Day1.dll
