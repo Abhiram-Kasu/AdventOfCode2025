@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Day2">
+    <resource name="FSharpSignatureData.Day2" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Day2" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Day2" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Day2" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Day2" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Day2" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Day2" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Day2" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Day2" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Day2" action="remove"></resource>
+  </assembly>
+</linker>
